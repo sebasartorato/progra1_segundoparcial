@@ -1,0 +1,62 @@
+{
+    "especialidades":[
+        {
+            "nombre": "odontologia",
+            "monto": 4000
+        },
+        {
+            "nombre": "medico clinico",
+            "monto": 4000
+        },
+        {
+            "nombre": "psicologia",
+            "monto": 4000
+        },
+        {
+            "nombre": "traumatologia",
+            "monto": 4000
+        }
+    ]
+    ,
+    "obras_sociales": [
+        "Swiss Medical",
+        "Apres",
+        "Pami",
+        "Particular"
+        ]
+    ,
+    "pacientes": [
+        {
+            "nombre": "Juan",
+            "apellido": "Perez",
+            "dni": "12345678",
+            "edad": 30,
+            "fecha_registro": "2023-01-05",
+            "obra_social": "Particular"
+        },
+        {
+            "nombre": "Maria",
+            "apellido": "Gomez",
+            "dni": "37654321",
+            "edad": 40,
+            "fecha_registro": "2023-02-15",
+            "obra_social": "Swiss Medical"
+        },
+        {
+            "nombre": "Jose",
+            "apellido": "Gutierrez",
+            "dni": "56781234",
+            "edad": 65,
+            "fecha_registro": "2023-03-20",
+            "obra_social": "Pami"
+        },
+        {
+            "nombre": "Ana",
+            "apellido": "Lopez",
+            "dni": "87654321",
+            "edad": 50,
+            "fecha_registro": "2023-04-10",
+            "obra_social": "Apres"
+        }
+    ]
+ }
